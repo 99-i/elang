@@ -1,0 +1,12 @@
+{
+  "name": "elang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "elang.js",
+  "type": "module",
+  "scripts": {
+    "start": "node elang.js prog.e"
+  },
+  "author": "",
+  "license": "ISC"
+}
